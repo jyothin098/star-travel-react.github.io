@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/star-travel-react.github.io/static/css/main.b1df486b.css",
-    "main.js": "/star-travel-react.github.io/static/js/main.658e05ab.js",
+    "main.js": "/star-travel-react.github.io/static/js/main.f68bf41c.js",
     "static/js/787.ead48c3e.chunk.js": "/star-travel-react.github.io/static/js/787.ead48c3e.chunk.js",
     "static/media/features-bg.png": "/star-travel-react.github.io/static/media/features-bg.a84233a79f61b18c4421.png",
     "static/media/offer-banner.png": "/star-travel-react.github.io/static/media/offer-banner.5b8cc7512f842cfcfb3a.png",
@@ -29,11 +29,11 @@
     "static/media/leftdot.svg": "/star-travel-react.github.io/static/media/leftdot.b6616c261becd18590bbe3a5771d22a0.svg",
     "index.html": "/star-travel-react.github.io/index.html",
     "main.b1df486b.css.map": "/star-travel-react.github.io/static/css/main.b1df486b.css.map",
-    "main.658e05ab.js.map": "/star-travel-react.github.io/static/js/main.658e05ab.js.map",
+    "main.f68bf41c.js.map": "/star-travel-react.github.io/static/js/main.f68bf41c.js.map",
     "787.ead48c3e.chunk.js.map": "/star-travel-react.github.io/static/js/787.ead48c3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1df486b.css",
-    "static/js/main.658e05ab.js"
+    "static/js/main.f68bf41c.js"
   ]
 }
